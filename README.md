@@ -19,6 +19,7 @@ This is a diagram made by Draw.io
 ## Limits of system
 * Think i need to improve, i need to measure based in bucket and performance.
 * Add security and logging issues.
+* Add little analytics system this project.
 
 ## Version
 Current : 0.0.1
