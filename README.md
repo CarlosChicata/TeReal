@@ -14,7 +14,7 @@ This system can:
 ## Diagram of components in project
 This is a diagram made by Draw.io
 
-![Diagram of project TeReal](https://github.com/CarlosChicata/TeReal/blob/main/Diagrama%20de%20proyecto%20TeReal_v0.0.1.png)
+![Diagram of project TeReal](https://github.com/CarlosChicata/TeReal/blob/main/Diagrama%20de%20proyecto%20TeReal_v0.0.2.png)
 
 ## Limits of system
 * Think i need to improve, i need to measure based in bucket and performance.
